@@ -9,6 +9,7 @@ URL: https://pypi.python.org/pypi/netifaces
 Source0: %{name}-%{version}.tar.gz
 BuildRequires: python-devel
 Requires: python
+Requires: python-setuptools
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 AutoReqProv: no
