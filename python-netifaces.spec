@@ -37,3 +37,6 @@ rm -rf $RPM_BUILD_ROOT
 %{python2_sitearch}/netifaces.so
 
 %changelog
+* Fri Dec 23 2016 Michal Gawlik <michal.gawlik@thalesgroup.com> 0.10.5-1
+- new package built with tito
+
