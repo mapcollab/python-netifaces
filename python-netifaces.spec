@@ -1,6 +1,6 @@
 Name: python-netifaces
 Version: 0.10.5
-Release: 1
+Release: 1%{?dist}
 Packager: builder
 Summary: Portable network interface information.
 License: MIT License
